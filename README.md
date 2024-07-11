@@ -1,3 +1,3 @@
-# DanielCodeChallenge
+# My Swift Playground
 
-A description of this package.
+A place where i can do some fun with Swift Programming Language.
